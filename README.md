@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Backend%20Engineer&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Ahryeong%20GitHub&fontSize=80)
 
 ### Hi there 👋
 
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.naver.com/dkfud2121"> Come to My Blog </a>
+<a href="https://blog.naver.com/dkfud2121"> Naver Blog </a><br/>
+<a href="https://servive-as-developer.tistory.com/"> Tistory </a>
