@@ -4,7 +4,7 @@
 - 개발 중에 오류를 발견하거나, 책 내용이 이해가 안되어도 새로운 지식을 얻을 수 있는 기회로 여기며 공부합니다.‬‭
 - 짧은 순간 폭발적으로 몰린 트래픽에도 사용자에게 안정적인 서비스를 제공할 수 있는 엔지니어가 되는 것이 **목표** 입니다.‬ 💪
 
-- **개발 블로그**  👉🏻  [![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/) `This is my new blog`
+- **개발 블로그**  👉🏻  [![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/)
 
 ## 🛠️ Tech Stack
 <div align="center">
