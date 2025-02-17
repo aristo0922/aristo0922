@@ -34,9 +34,6 @@
 
 <br/>
 <br/>
-  
-## 📊 GitHub
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=aristo&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristo0922&layout=compact&theme=radical)
-## 🧐 알고리즘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfud2121)](https://solved.ac/dkfud2121/)
