@@ -4,13 +4,13 @@
 - 개발 중에 오류를 발견하거나, 책 내용이 이해가 안되어도 새로운 지식을 얻을 수 있는 기회로 여기며 공부합니다.‬‭
 - 짧은 순간 폭발적으로 몰린 트래픽에도 사용자에게 안정적인 서비스를 제공할 수 있는 엔지니어가 되는 것이 **목표** 입니다.‬ 💪
 
-- **개발 블로그**  👉🏻  [![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/)
+[![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/)
 
 ## 🛠️ Tech Stack
 <div align="center">
 
 **자주 사용하는** <br/>
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) 
 <br/>
 **사용 가능한** <br/>
 ![apachekafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white) ![rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -40,15 +40,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristo0922&layout=compact&theme=radical)
 ## 🧐 알고리즘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfud2121)](https://solved.ac/dkfud2121/)
-<!--
-**hyeok-kong/hyeok-kong** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :망원경: I’m currently working on ...
-- :새싹: I’m currently learning ...
-- :댄서: I’m looking to collaborate on ...
-- :생각하는_얼굴: I’m looking for help with ...
-- :말풍선: Ask me about ...
-- :우편함: How to reach me: ...
-- :웃음: Pronouns: ...
-- :번쩍: Fun fact: ...
--->
