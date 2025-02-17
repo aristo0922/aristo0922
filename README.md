@@ -2,7 +2,7 @@
 ## 👩🏼‍💻 About me
 - **장고** 기반 프로젝트로 프론트와 협업하고 최근에는 **스프링**을 공부하며 식견을 넓혀나가는 중입니다. 💪 
 - `공부한 내용` 과 `문제 & 해결 과정`을 사람들과 공유하는 걸 좋아합니다. 🥰
-- **개발 블로그**  [![naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/dkfud2121)  🚛  *이사 갑니다* 👉🏻  [![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/) `This is my new blog`
+- **개발 블로그**  👉🏻  [![tistory](https://img.shields.io/badge/tistory-FF6600?style=flat&logo=tistory&logoColor=white)](https://servive-as-developer.tistory.com/) `This is my new blog`
 
 ## 🛠️ Tech Stack
 <div align="center">
